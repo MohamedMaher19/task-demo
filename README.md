@@ -7,10 +7,10 @@ A new Flutter project.
 
   Welcome Page                 |   Onboarding Page        |  Register Page | Login Page 
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://user-images.githubusercontent.com/96595062/194712061-b76e42e1-5be1-46e0-9519-4b431b869678.jpg?raw=true)|![]
-(https://user-images.githubusercontent.com/96595062/194712066-a85390d5-719d-4473-83c1-179e60acea38.jpg?raw=true)|![]
-(https://user-images.githubusercontent.com/96595062/194712071-058e2458-6e54-45ed-99f0-9d1a62bc56c8.jpg?raw=true)|![]
-(https://user-images.githubusercontent.com/96595062/194712078-893ded44-6cfc-4235-8058-390678f9913a.jpg?raw=true)
+![](https://user-images.githubusercontent.com/96595062/194712061-b76e42e1-5be1-46e0-9519-4b431b869678.jpg?raw=true)|
+![](https://user-images.githubusercontent.com/96595062/194712066-a85390d5-719d-4473-83c1-179e60acea38.jpg?raw=true)|
+![](https://user-images.githubusercontent.com/96595062/194712071-058e2458-6e54-45ed-99f0-9d1a62bc56c8.jpg?raw=true)|
+![](https://user-images.githubusercontent.com/96595062/194712078-893ded44-6cfc-4235-8058-390678f9913a.jpg?raw=true)
 
   Explore Page Dark                 |   Explore Page Dark AR        |  Map Page | Profile Page 
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
