@@ -5,16 +5,12 @@ A new Flutter project.
 
 ## Screenshots
 
-  Welcome Page                 |   Onboarding Page        |  Register Page | Login Page 
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://user-images.githubusercontent.com/96595062/194712061-b76e42e1-5be1-46e0-9519-4b431b869678.jpg?raw=true)|![]
-(https://user-images.githubusercontent.com/96595062/194712066-a85390d5-719d-4473-83c1-179e60acea38.jpg?raw=true)|![]
-(https://user-images.githubusercontent.com/96595062/194712071-058e2458-6e54-45ed-99f0-9d1a62bc56c8.jpg?raw=true)|![]
-(https://user-images.githubusercontent.com/96595062/194712078-893ded44-6cfc-4235-8058-390678f9913a.jpg?raw=true)
+![welcome](https://user-images.githubusercontent.com/96595062/194713340-25b8ab58-9df2-4f59-85b7-4c33f409f2c8.jpg)
+![on-board](https://user-images.githubusercontent.com/96595062/194713346-6c4a58ec-7294-4c91-a846-eb7d1be1ccdf.jpg)
+![chat](https://user-images.githubusercontent.com/96595062/194713351-0e8e241f-0ac2-4f74-94f8-6f095f28e91b.jpg)
+![bootom-sheet](https://user-images.githubusercontent.com/96595062/194713355-2bc4459c-5ccd-445a-a9d7-37671212d4a2.jpg)
+![home](https://user-images.githubusercontent.com/96595062/194713360-022b56d4-bc02-4c49-b2d8-724cd94930c8.jpg)
 
-  Explore Page Dark                 |   Explore Page Dark AR        |  Map Page | Profile Page 
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/MOHAB28/booking_app/blob/master/screenshots/explore_screen_dark.jpg?raw=true)|![](https://github.com/MOHAB28/booking_app/blob/master/screenshots/explore_screen_light_ar.jpg?raw=true)|![](https://github.com/MOHAB28/booking_app/blob/master/screenshots/map_screen_part_1.jpg?raw=true)|![](https://github.com/MOHAB28/booking_app/blob/master/screenshots/pofile_screen.jpg?raw=true)
 
 
 
